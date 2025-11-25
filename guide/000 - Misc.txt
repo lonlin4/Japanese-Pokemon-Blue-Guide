@@ -3,61 +3,29 @@
 Menu
 ----
 
-ポケモン
-どうぐ (道具)
-ブルー
-レポート
-せってい (設定)
-とじる (閉じる)
-
-Pokemon Party
-Item Menu
-Player Info
-Save
-Settings
-Close
-
-----
-Menu - Pokemon Party
-----
-
-
+ポケモン - Pokemon Party
+どうぐ (道具) - Items
+ブルー - Player Info
+レポート - Save
+せってい (設定) - Settings
+とじる (閉じる) - Close
 
 ----
 Menu - Player Info
 ----
 
-なまえ
-名前
-Name
-
-おこづかい
-お小遣い
-Pocket Money
-
-プレイじかん
-プレイ時間
-Play Time
+なまえ (名前) - Name
+おこづかい (お小遣い) - Pocket Money
+プレイじかん (プレイ時間) - Play Time
 
 ----
 Menu - Save
 ----
 
-しゅじんこう
-主人公
-character
-
-もっているバッジ
-持っているバッジ
-owned badges
-
-ポケモンずかん
-ポケモン図鑑
-Pokedex
-
-プレイじかん
-プレイ時間
-Play Time
+しゅじんこう (主人公) - character
+もっているバッジ (持っているバッジ) - owned badges
+ポケモンずかん (ポケモン図鑑) - Pokedex
+プレイじかん (プレイ時間) - Play Time
 
 ここまでの かつやくを ポケモンレポートに かきこみますか?
 ここまでの活躍をポケモンレポートに書き込みますか?
@@ -71,34 +39,17 @@ saved the game!
 Menu - Settings
 ----
 
-はなしの はやさ
-話の速さ
-Text Speed
-
-はやい ふつう おそい
-早い 普通 遅い
+はなしの はやさ (話の速さ) - Text Speed
+はやい (早い) ふつう (普通) おそい (遅い)  
 fast normal slow
 
-せんとう アニメーション
-戦闘 アニメーション
-battle animation
-
-じっくり みる とばして みる
-じっくり見る 飛ばして見る
+せんとう アニメーション (戦闘 アニメーション) - battle animation
+じっくり みる (じっくり見る) とばして みる (飛ばして見る)
 thoroughly see skip seeing
 
-しあいの ルール
-試合のルール
-Game Rule
-
-いれかえタイプ かちぬきタイプ
-入れ替えタイプ 勝ち抜きタイプ
+しあいの ルール (試合のルール) - Game Rule
+いれかえタイプ (入れ替えタイプ) かちぬきタイプ (勝ち抜きタイプ)
 replacement type knockout type
 
-おわり
-終わり
-close
-
-
-
+おわり (終わり) - close
 
