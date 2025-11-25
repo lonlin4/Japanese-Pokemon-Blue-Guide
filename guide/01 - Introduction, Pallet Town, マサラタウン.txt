@@ -55,6 +55,25 @@ There's a movie on TV. Four boys are walking on railroad tracks. I better go too
 MOM: Right. All boys leave home some day. It said so on TV. PROF.OAK, next door, is looking for you.
 
 ----
+Pallet Town
+----
+
+[Sign]
+ここは マサラ タウン マサラは まっしろ はじまりのいろ
+ここはマサラタウン マサラは真っ白始まりの色
+PALLET TOWN Shades of your journey await!
+
+[NW Girl]
+わたしも ポケモンを そだててるの! つよく なれば ガードマンの かわりに なるしね
+私もポケモンを育ててるの! 強くなればガードマンの代わりになるしね
+I'm raising POKéMON too! When they get strong, they can protect me!
+
+[SE Guy]
+かがくの ちからって すげー! いまは パソコンつうしんで どうぐや ポケモンを データにして おくれるんだと
+科学の力ってすげー! 今はパソコン通信で道具やポケモンをデータにして送れるんだと
+Technology is incredible! You can now store and recall items and POKéMON as data via PC!
+
+----
 Oak's Lab
 ----
 
