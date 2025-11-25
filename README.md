@@ -10,7 +10,7 @@ This guide contains a story-order translation of Pokemon Blue, with each line br
 オーキド博士のポケモン最後の一匹だ……!<br>
 That's PROF.OAK's last POKéMON!<br>
 
-## Translation Note
+**A note about the translation**<br>
 I am using the English text from Pokemon Blue.<br>
 As such, some Japanese lines will be translated "loosely", rather than a precise word-for-word meaning.
 
