@@ -1,0 +1,104 @@
+
+----
+Menu
+----
+
+ポケモン
+どうぐ (道具)
+ブルー
+レポート
+せってい (設定)
+とじる (閉じる)
+
+Pokemon Party
+Item Menu
+Player Info
+Save
+Settings
+Close
+
+----
+Menu - Pokemon Party
+----
+
+
+
+----
+Menu - Player Info
+----
+
+なまえ
+名前
+Name
+
+おこづかい
+お小遣い
+Pocket Money
+
+プレイじかん
+プレイ時間
+Play Time
+
+----
+Menu - Save
+----
+
+しゅじんこう
+主人公
+character
+
+もっているバッジ
+持っているバッジ
+owned badges
+
+ポケモンずかん
+ポケモン図鑑
+Pokedex
+
+プレイじかん
+プレイ時間
+Play Time
+
+ここまでの かつやくを ポケモンレポートに かきこみますか?
+ここまでの活躍をポケモンレポートに書き込みますか?
+Would you like to save the game?
+
+レポートに しっかり かきのこした!
+レポートにしっかり書き残した!
+saved the game!
+
+----
+Menu - Settings
+----
+
+はなしの はやさ
+話の速さ
+Text Speed
+
+はやい ふつう おそい
+早い 普通 遅い
+fast normal slow
+
+せんとう アニメーション
+戦闘 アニメーション
+battle animation
+
+じっくり みる とばして みる
+じっくり見る 飛ばして見る
+thoroughly see skip seeing
+
+しあいの ルール
+試合のルール
+Game Rule
+
+いれかえタイプ かちぬきタイプ
+入れ替えタイプ 勝ち抜きタイプ
+replacement type knockout type
+
+おわり
+終わり
+close
+
+
+
+
