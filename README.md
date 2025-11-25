@@ -14,9 +14,3 @@ Hello there! Welcome to the world of POKéMON! My name is OAK! People call me th
 I am using the English text from Pokemon Blue.<br>
 As such, some Japanese lines will be translated "loosely", rather than a precise word-for-word meaning.
 
-## Files
-[00 - Menu, Settings, PC](https://github.com/lonlin4/Japanese-Pokemon-Blue-Guide/blob/main/guide/00%20-%20Menu%2C%20Settings%2C%20PC.txt)<br>
-[01 - Introduction, Pallet Town](https://github.com/lonlin4/Japanese-Pokemon-Blue-Guide/blob/main/guide/01%20-%20Introduction%2C%20Pallet%20Town.txt)
-
-
-
