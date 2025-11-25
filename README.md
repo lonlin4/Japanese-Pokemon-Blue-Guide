@@ -6,9 +6,9 @@ This guide contains a story-order translation of Pokemon Blue, with each line br
 `English`<br><br>
 
 **Example**<br>
-はじめまして! ポケット モンスターの せかいへ ようこそ! わたしの なまえは オーキド みんなからは ポケモン はかせと したわれて おるよ <br>
-はじめまして! ポケットモンスターの世界へようこそ! 私の名前はオーキド みんなからはポケモン博士と慕われておるよ <br>
-Hello there! Welcome to the world of POKéMON! My name is OAK! People call me the POKéMON PROF! <br>
+オーキドはかせの ポケモン さいごの いっぴきだ……!<br>
+オーキド博士のポケモン最後の一匹だ……!<br>
+That's PROF.OAK's last POKéMON!<br>
 
 ## Translation Note
 I am using the English text from Pokemon Blue.<br>
