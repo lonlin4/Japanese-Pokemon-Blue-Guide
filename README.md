@@ -3,7 +3,7 @@ This is a guide to playing Pokemon Blue (Pocket Monsters Ao) in Japanese as an E
 This guide contains a story-order translation of Pokemon Blue, with each line broken into 3 parts:<br>
 `Kana`<br>
 `Kanji`<br>
-`English`<br><br>
+`English`<br>
 
 **Example**<br>
 オーキドはかせの ポケモン さいごの いっぴきだ……!<br>
