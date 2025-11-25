@@ -1,2 +1,17 @@
-# Japanese-Pokemon-Blue-Guide
-An English guide to playing Pokemon Blue in Japanese.
+# Japanese Pokemon Blue Guide
+This is a guide to playing Pokemon Blue (Pocket Monsters Ao) in Japanese as an English speaker.<br>
+This guide contains an near complete translation of Pokemon Blue in story-order, with each line broken into 3 parts:<br>
+`Kana`<br>
+`Kanji`<br>
+`English`<br><br>
+
+**Example**<br>
+はじめまして! ポケット モンスターの せかいへ ようこそ! わたしの なまえは オーキド みんなからは ポケモン はかせと したわれて おるよ <br>
+はじめまして! ポケットモンスターの世界へようこそ! 私の名前はオーキド みんなからはポケモン博士と慕われておるよ <br>
+Hello there! Welcome to the world of POKéMON! My name is OAK! People call me the POKéMON PROF! <br>
+
+# Translation Notes
+I am using the English text from Pokemon Blue.<br>
+As such, some Japanese lines will be translated "loosely", rather than a precise word-for-word meaning.
+
+
