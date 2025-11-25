@@ -1,5 +1,5 @@
 # Japanese Pokemon Blue Guide
-This is a guide to playing Pokemon Blue (Pocket Monsters Ao) in Japanese as an English speaker.<br>
+This is a guide to playing Japanese Pokemon Blue (Pocket Monsters Ao) for English speakers.<br>
 This guide contains a story-ordered translation of Pokemon Blue, with each line broken into 3 parts:<br>
 `Kana`<br>
 `Kanji`<br>
