@@ -16,7 +16,7 @@ As such, some Japanese lines will be translated "loosely", rather than a precise
 
 ## Files
 [00 - Menu, Settings, PC](https://github.com/lonlin4/Japanese-Pokemon-Blue-Guide/blob/main/guide/00%20-%20Menu%2C%20Settings%2C%20PC.txt)<br>
-[01 - Introduction, Pallet Town, マサラタウン](https://github.com/lonlin4/Japanese-Pokemon-Blue-Guide/blob/main/guide/01%20-%20Introduction%2C%20Pallet%20Town%2C%20マサラタウン.txt)
+[01 - Introduction, Pallet Town](https://github.com/lonlin4/Japanese-Pokemon-Blue-Guide/blob/main/guide/01%20-%20Introduction%2C%20Pallet%20Town.txt)
 
 
 
