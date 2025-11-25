@@ -1,5 +1,13 @@
 
 ----
+Title Screen Menu
+----
+
+つづきからはじめる (続きから始める) - Continue from save
+さいしょからはじめる (最初から始める) - Start from beginning 
+せっていを かえる (設定を変える) - Change settings
+
+----
 Menu
 ----
 
