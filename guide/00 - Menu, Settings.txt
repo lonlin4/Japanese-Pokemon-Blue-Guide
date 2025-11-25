@@ -1,12 +1,5 @@
 
 ----
-TODO
-----
-- add PC text
-- add Pokecenter text
-- add pokemart text
-
-----
 Menu
 ----
 
