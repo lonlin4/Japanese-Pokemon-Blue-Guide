@@ -10,8 +10,12 @@ This guide contains an near complete translation of Pokemon Blue in story-order,
 はじめまして! ポケットモンスターの世界へようこそ! 私の名前はオーキド みんなからはポケモン博士と慕われておるよ <br>
 Hello there! Welcome to the world of POKéMON! My name is OAK! People call me the POKéMON PROF! <br>
 
-# Translation Notes
+## Translation Note
 I am using the English text from Pokemon Blue.<br>
 As such, some Japanese lines will be translated "loosely", rather than a precise word-for-word meaning.
+
+## Files
+[01 - Introduction, Pallet Town, マサラタウン](https://github.com/lonlin4/Japanese-Pokemon-Blue-Guide/blob/main/guide/01%20-%20Introduction%2C%20Pallet%20Town%2C%20マサラタウン.txt)
+
 
 
