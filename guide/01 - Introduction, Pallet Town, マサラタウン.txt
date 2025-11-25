@@ -39,11 +39,34 @@ Your very own POKéMON legend is about to unfold! A world of dreams and adventur
 Blue's House
 ----
 
+[Upstairs TV]
+ブルーは ファミコンを してる! …… …… よし! そろそろ でかけよう!
+ブルーはファミコンをしてる! ………… よし! そろそろ出かけよう!
+BLUE is playing the SNES! ...Okay! It's time to go!
+
+[Downstairs TV]
+テレビで えいがを やってる! おとこのこが 4にん せんろのうえを あるいてる…… …… ぼくも もう いかなきゃ!
+テレビで映画をやってる! 男の子が4人線路の上を歩いてる…………僕ももう行かなきゃ!
+There's a movie on TV. Four boys are walking on railroad tracks. I better go too.
+
+[Blue's Mother]
+おかあさん『…… そうね おとこのこは いつか たびに でるもの なのよ うん…… テレビの はなしよ! そういえば となりの オーキドはかせが あなたを よんでたわよ
+お母さん『…… そうね 男の子はいつか旅に出るものなのよ うん…… テレビの話よ! そういえば隣のオーキド士があなたを呼んでたわよ	
+MOM: Right. All boys leave home some day. It said so on TV. PROF.OAK, next door, is looking for you.
+
 ----
 Oak's Lab
 ----
 
+
+
 ----
 Red's House
 ----
+
+
+
+
+
+
 
