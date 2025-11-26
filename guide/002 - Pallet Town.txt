@@ -150,4 +150,15 @@ I study POKéMON as PROF.OAK's AIDE.
 Red's House
 ----
 
+[Red's Sister]
+こんにちは ブルーくん! おとうとの レッドなら おじいちゃんの けんきゅうじょよ
+こんにちはブルー君! 弟のレッドならおじいちゃんの研究所よ
+Hi BLUE! RED is out at Grandpa's lab.
+
+[Map on Table]
+カントー ちほうの ちずだ! …… もらえたら うれしい?
+カントー地方の地図だ! …… もらえたら嬉しい?
+It's a big map! This is useful!
+
+
 
