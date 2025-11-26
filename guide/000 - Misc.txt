@@ -61,3 +61,24 @@ replacement type knockout type
 
 おわり (終わり) - close
 
+----
+Battle / Pokemon Terms
+----
+
+こうげき (攻撃) - attack
+ぼうぎょ (防御) - defense
+すばやさ (素早さ) - speed
+とくしゅ (特殊) - special
+じょうたい (状態) - condition
+けいけんち (経験値) - experience points
+
+あ! やせいの {Pokemon}が とびだしてきた!
+あ! 野生の{Pokemon}が飛び出してきた!
+Wild {Pokemon} appeared!
+
+てきの {Pokemon} は たおれた!
+敵の{Pokemon}は倒れた!
+Enemy {Pokemon} fainted!
+
+
+
