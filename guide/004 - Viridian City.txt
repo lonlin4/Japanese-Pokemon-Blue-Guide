@@ -1,0 +1,160 @@
+
+----
+Viridan City
+----
+
+[Sign]
+おとくな けいじばん! ポケモンには たいりょくの ほか わざを くりだす げんきの もと パワーポイントが あります わざ ごとの パワーポイントが なくなった ときも ポケモンセンターで やすませて!
+お得な掲示板! ポケモンには体力の他技を繰り出す元気の元パワーポイントがあります 技ごとのパワーポイントがなくなった時もポケモンセンターで休ませて!
+TRAINER TIPS The battle moves of POKéMON are limited by their POWER POINTs, PP. To replenish PP, rest your tired POKéMON at a POKéMON CENTER!
+
+[SE Guy]
+いもむし ポケモンには 2しゅるい いるって しらない?
+いもむしポケモンには2種類いるって知らない?
+You want to know about the 2 kinds of caterpillar POKéMON?
+
+[W Guy]
+きみが こしに つけてる その モンスターボールは……! まさしく ポケモンだね! いつでも ポケモンの だしいれが じゆうに できる なんて べんりな よのなかだね
+君が腰に付けてるそのモンスターボールは……! まさしくポケモンだね! いつでもポケモンの出し入れが自由にできる なんて便利な世の中だね
+Those POKé BALLs at your waist! You have POKéMON! It's great that you can carry and use POKéMON any time, anywhere!
+
+[Sign]
+ここは トキワシティ トキワは みどり えいえんのいろ
+ここはトキワシティ トキワは緑永遠の色
+VIRIDIAN CITY The Eternally Green Paradise
+
+[Girl]
+あらら じいちゃん! こんな ところで ねちゃって しょーが ないわね! よいが さめるまで まつしかないわ
+あららじいちゃん! こんな所で寝ちゃって しょーがないわね! 酔いが覚めるまで待つしかないわ
+Oh Grandpa! Don't be so mean! He hasn't had his coffee yet.
+
+[Drunk Guy]
+ういーっ! ひっく…… まちやがれ! わしの はなしを きけ! …… こら! いくな! と いっとろーが!
+ういーっ! ひっく……待ちやがれ! わしの話を聞け! …… こら! 行くな! と言っとろーが!
+You can't go through here! This is private property!
+
+----
+House #2
+----
+
+[Girl]
+うちの とうちゃんも ポケモン だいすきなのよ!
+うちの とうちゃんも ポケモン だいすきなのよ!
+My Daddy loves POKéMON too.
+
+[Father]
+ニックネームを かんがえることは たのしい……が むずかしい! こった ニックネームも いいが おぼえやすいのが いちばん やな!
+ニックネームを かんがえることは たのしい……が むずかしい! こった ニックネームも いいが おぼえやすいのが いちばん やな!
+Coming up with nicknames is fun, but hard. Simple names are the easiest to remember.
+
+[Sign on Wall]
+オニスズメ めいめい 「オニチャン」
+オニスズメ めいめい 「オニチャン」
+SPEAROW Name: SPEARY
+
+----
+Trainer School
+----
+
+[Girl at Table]
+ふー ノートの なかの こと わたし ぜんぶ おぼえるの
+ふー ノートの なかの こと わたし ぜんぶ おぼえるの
+Whew! I'm trying to memorize all my notes.
+
+[Girl by chalkboard]
+はい! こくばんに かかれてる こと ちゃんと みて!
+はい! こくばんに かかれてる こと ちゃんと みて!
+Okay! Be sure to read the blackboard carefully!
+
+[chalkboard]
+こくばんに ポケモンが たたかってる とき おこる たいちょうの へんかに ついて かかれてる
+こくばんに ポケモンが たたかってる とき おこる たいちょうの へんかに ついて かかれてる
+The blackboard describes POKéMON STATUS changes during battles.
+
+どの こうもくを みますか?
+どの こうもくを みますか?
+Which heading do you want to read?
+
+ねてしまうと その あいだは こうげき できません! たたかい おわっても ねたまま ねむけざましで めが さめます
+ねてしまうと その あいだは こうげき できません! たたかい おわっても ねたまま ねむけざましで めが さめます
+A POKéMON can't attack if it's asleep! POKéMON will stay asleep even after battles. Use AWAKENING to wake them up!
+
+どくを くらうと たいりょくが へって いきます たたかい おわっても どくは のこりますが どくけしで きえます!
+どくを くらうと たいりょくが へって いきます たたかい おわっても どくは のこりますが どくけしで きえます!
+When poisoned, a POKéMON's health steadily drops. Poison lingers after battles. Use an ANTIDOTE to cure poison!
+
+マヒすると わざが ときどき でなく なります! たたかい おわっても マヒは のこります また マヒなおしで なおります
+マヒすると わざが ときどき でなく なります! たたかい おわっても マヒは のこります また マヒなおしで なおります
+Paralysis could make POKéMON moves misfire! Paralysis remains after battles. Use PARLYZ HEAL for treatment!
+
+やけどは たいりょくが へって こうげきりょくと すばやさも さがって しまいます! たたかい おわっても やけどは のこります また やけどなおしで なおります
+やけどは たいりょくが へって こうげきりょくと すばやさも さがって しまいます! たたかい おわっても やけどは のこります また やけどなおしで なおります
+A burn reduces power and speed. It also causes ongoing damage. Burns remain after battles. Use BURN HEAL to cure a burn!
+
+こおって しまうと まったく うごけなく なります! たたかい おわっても こおってます こおりなおしで とかさないと ポケモンが かわいそう
+こおって しまうと まったく うごけなく なります! たたかい おわっても こおってます こおりなおしで とかさないと ポケモンが かわいそう
+If frozen, a POKéMON becomes totally immobile! It stays frozen even after the battle ends. Use ICE HEAL to thaw out POKéMON!
+
+[notebook on table]
+ノートを のぞいた! 1ぺージめ …… ポケモンは モンスターボールで つかまえて 6つまで もち あるける ポケモンを そだてて たたかわせる ひとを ポケモン トレーナーという
+ノートを のぞいた! 1ぺージめ …… ポケモンは モンスターボールで つかまえて 6つまで もち あるける ポケモンを そだてて たたかわせる ひとを ポケモン トレーナーという
+Looked at the notebook! First page... POKé BALLs are used to catch POKéMON. Up to 6 POKéMON can be carried. People who raise and make POKéMON fight are called POKéMON trainers.
+
+2ぺージめ …… ポケモンを つかまえる ときは まず よわらせてから! どくや やけどで よわらせても いいよ! げんきだと うまく とれないかも
+2ぺージめ …… ポケモンを つかまえる ときは まず よわらせてから! どくや やけどで よわらせても いいよ! げんきだと うまく とれないかも
+Second page... A healthy POKéMON may be hard to catch, so weaken it first! Poison, burns and other damage are effective!
+
+3ぺージめ …… ポケモンどうしを たたかわせ かつことは トレーナーに とって さいこうの よろこび である! かくちの ポケモン ジムでは いつも はげしい たたかいが くりひろげられてる!
+3ぺージめ …… ポケモンどうしを たたかわせ かつことは トレーナーに とって さいこうの よろこび である! かくちの ポケモン ジムでは いつも はげしい たたかいが くりひろげられてる!
+Third page... POKéMON trainers seek others to engage in POKéMON fights. Battles are constantly fought at POKéMON GYMs.
+
+4ぺージめ …… ポケモントレーナーの もくひょうは かくちの ジムに いる つよい トレーナー 8にんしゅうを たおすこと! さらに ポケモンりーグ ほんぶには …… もうれつに つよい! してんのうが くんりん してる!
+4ぺージめ …… ポケモントレーナーの もくひょうは かくちの ジムに いる つよい トレーナー 8にんしゅうを たおすこと! さらに ポケモンりーグ ほんぶには …… もうれつに つよい! してんのうが くんりん してる!
+Fourth page... The goal for POKéMON trainers is to beat the top 8 POKéMON GYM LEADERs. Do so to earn the right to face... The ELITE FOUR of POKéMON LEAGUE!
+
+おんなのこ『あー! ノート みちゃ だめ!
+おんなのこ『あー! ノート みちゃ だめ!
+GIRL: Hey! Don't look at my notes!
+
+----
+Pokemon Center
+----
+
+[Left Guy]
+ポケモンセンターに あずけると つかれて うごけない ポケモンも げんきに なるよ!
+ポケモンセンターに あずけると つかれて うごけない ポケモンも げんきに なるよ!
+POKéMON CENTERs heal your tired, hurt or fainted POKéMON!
+
+[Guy at Counter]
+ポケモンセンターは このさき どこの まちに いっても ある! なんびき あずけても ただ だし こまめに つかうと いいよ!
+ポケモンセンターは このさき どこの まちに いっても ある! なんびき あずけても ただ だし こまめに つかうと いいよ!
+There's a POKéMON CENTER in every town ahead. They don't charge any money either!
+
+[Man at Right]
+すみに ある パソコンは どうぞ ごじゆうに おつかいください! ……と うけつけの ねーちゃんが いっとった しんせつやのう
+すみに ある パソコンは どうぞ ごじゆうに おつかいください! ……と うけつけの ねーちゃんが いっとった しんせつやのう
+You can use that PC in the corner. The receptionist told me. So kind!
+
+----
+Poke Mart
+----
+
+[Clerk]
+お! きみは マサラ タウンから きたんだね?
+お! きみは マサラ タウンから きたんだね?
+Hey! You came from PALLET TOWN?
+
+オーキド はかせを しってるね? これ たのまれてるんだけど わたして くれるかい! ブルーは ショップから とどけものを あずかった!
+オーキド はかせを しってるね? これ たのまれてるんだけど わたして くれるかい! ブルーは ショップから とどけものを あずかった!
+You know PROF. OAK, right? His order came in. Will you take it to him? BLUE got OAK's PARCEL!
+
+[Right Guy]
+ねえ この みせの うれすじは どくけし なんだって!
+ねえ この みせの うれすじは どくけし なんだって!
+This shop sells many ANTIDOTEs.
+
+[Top Guy]
+ないなー キズぐすり…… ここでは うりきれてる みたい
+ないなー キズぐすり…… ここでは うりきれてる みたい
+No! POTIONs are all sold out.
+
