@@ -1,0 +1,20 @@
+
+----
+Route 1
+----
+
+[Sign]
+ここは 1ばん どうろ マサラ タウン …… トキワ シティ
+ここは1番道路 マサラタウン……トキワシティ
+ROUTE 1 PALLET TOWN - VIRIDIAN CITY
+
+[Guy #1]
+わたし フレンドりィ ショップの てんいん です べんりな どうぐや ですから トキワ シティで ぜひ よって くださいね! そうだ! みほんを さしあげましょう …… どうぞ!
+私フレンドりィショップの店員です 便利な道具屋ですからトキワシティで是非寄ってくださいね! そうだ! 見本を差し上げましょう……どうぞ!
+Hi! I work at a POKéMON MART. It's a convenient shop, so please visit us in VIRIDIAN CITY. I know, I'll give you a sample! Here you go!
+
+[Guy #2]
+みちに だんさが あるだろ! とび おりるのは ちょっと こわいけど…… マサラ タウンに かえる ときは はやく かえれて いいよ
+道に段差があるだろ! 飛び降りるのはちょっと怖いけど…… マサラタウンに帰る時は早く帰れていいよ
+See those ledges along the road? It's a bit scary, but you can jump from them. You can get back to PALLET TOWN quicker that way.
+
