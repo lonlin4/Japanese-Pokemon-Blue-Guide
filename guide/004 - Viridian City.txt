@@ -58,58 +58,58 @@ Trainer School
 
 [Girl at Table]
 ふー ノートの なかの こと わたし ぜんぶ おぼえるの
-ふー ノートの なかの こと わたし ぜんぶ おぼえるの
+ふー ノートの中のこと私全部覚えるの
 Whew! I'm trying to memorize all my notes.
 
 [Girl by chalkboard]
 はい! こくばんに かかれてる こと ちゃんと みて!
-はい! こくばんに かかれてる こと ちゃんと みて!
+はい! 黒板にかかれてることちゃんと見て!
 Okay! Be sure to read the blackboard carefully!
 
 [chalkboard]
 こくばんに ポケモンが たたかってる とき おこる たいちょうの へんかに ついて かかれてる
-こくばんに ポケモンが たたかってる とき おこる たいちょうの へんかに ついて かかれてる
+黒板にポケモンが戦ってる時起こる体調の変化についてかかれてる
 The blackboard describes POKéMON STATUS changes during battles.
 
 どの こうもくを みますか?
-どの こうもくを みますか?
+どの項目を見ますか?
 Which heading do you want to read?
 
 ねてしまうと その あいだは こうげき できません! たたかい おわっても ねたまま ねむけざましで めが さめます
-ねてしまうと その あいだは こうげき できません! たたかい おわっても ねたまま ねむけざましで めが さめます
+寝てしまうとその間は攻撃できません! 戦い終わっても寝たまま眠気覚ましで目が覚めます
 A POKéMON can't attack if it's asleep! POKéMON will stay asleep even after battles. Use AWAKENING to wake them up!
 
 どくを くらうと たいりょくが へって いきます たたかい おわっても どくは のこりますが どくけしで きえます!
-どくを くらうと たいりょくが へって いきます たたかい おわっても どくは のこりますが どくけしで きえます!
+毒を食らうと体力が減っていきます 戦い終わっても毒は残りますが毒消しで消えます!
 When poisoned, a POKéMON's health steadily drops. Poison lingers after battles. Use an ANTIDOTE to cure poison!
 
 マヒすると わざが ときどき でなく なります! たたかい おわっても マヒは のこります また マヒなおしで なおります
-マヒすると わざが ときどき でなく なります! たたかい おわっても マヒは のこります また マヒなおしで なおります
+マヒすると技が時々でなくなります! 戦い終わってもマヒは残りますまたマヒ治しで治ります
 Paralysis could make POKéMON moves misfire! Paralysis remains after battles. Use PARLYZ HEAL for treatment!
 
 やけどは たいりょくが へって こうげきりょくと すばやさも さがって しまいます! たたかい おわっても やけどは のこります また やけどなおしで なおります
-やけどは たいりょくが へって こうげきりょくと すばやさも さがって しまいます! たたかい おわっても やけどは のこります また やけどなおしで なおります
+やけどは体力が減って攻撃力と素早さも下がってしまいます! 戦い終わってもやけどは残りますまたやけど治しで治ります
 A burn reduces power and speed. It also causes ongoing damage. Burns remain after battles. Use BURN HEAL to cure a burn!
 
 こおって しまうと まったく うごけなく なります! たたかい おわっても こおってます こおりなおしで とかさないと ポケモンが かわいそう
-こおって しまうと まったく うごけなく なります! たたかい おわっても こおってます こおりなおしで とかさないと ポケモンが かわいそう
+凍てしまうと全くけなくなります! 戦い終わっても凍ってます凍り治しで溶かさないとポケモンがかわいそう
 If frozen, a POKéMON becomes totally immobile! It stays frozen even after the battle ends. Use ICE HEAL to thaw out POKéMON!
 
 [notebook on table]
 ノートを のぞいた! 1ぺージめ …… ポケモンは モンスターボールで つかまえて 6つまで もち あるける ポケモンを そだてて たたかわせる ひとを ポケモン トレーナーという
-ノートを のぞいた! 1ぺージめ …… ポケモンは モンスターボールで つかまえて 6つまで もち あるける ポケモンを そだてて たたかわせる ひとを ポケモン トレーナーという
+ノートを覗いた! 1ぺージ目……ポケモンはモンスターボールで捕まえて6つまで持ち歩ける ポケモンを育てて戦わせる人をポケモントレーナーと言う
 Looked at the notebook! First page... POKé BALLs are used to catch POKéMON. Up to 6 POKéMON can be carried. People who raise and make POKéMON fight are called POKéMON trainers.
 
 2ぺージめ …… ポケモンを つかまえる ときは まず よわらせてから! どくや やけどで よわらせても いいよ! げんきだと うまく とれないかも
-2ぺージめ …… ポケモンを つかまえる ときは まず よわらせてから! どくや やけどで よわらせても いいよ! げんきだと うまく とれないかも
+2ぺージ目 …… ポケモンを つかまえる ときは まず よわらせてから! どくや やけどで よわらせても いいよ! げんきだと うまく とれないかも
 Second page... A healthy POKéMON may be hard to catch, so weaken it first! Poison, burns and other damage are effective!
 
 3ぺージめ …… ポケモンどうしを たたかわせ かつことは トレーナーに とって さいこうの よろこび である! かくちの ポケモン ジムでは いつも はげしい たたかいが くりひろげられてる!
-3ぺージめ …… ポケモンどうしを たたかわせ かつことは トレーナーに とって さいこうの よろこび である! かくちの ポケモン ジムでは いつも はげしい たたかいが くりひろげられてる!
+3ぺージ目 …… ポケモンどうしを たたかわせ かつことは トレーナーに とって さいこうの よろこび である! かくちの ポケモン ジムでは いつも はげしい たたかいが くりひろげられてる!
 Third page... POKéMON trainers seek others to engage in POKéMON fights. Battles are constantly fought at POKéMON GYMs.
 
 4ぺージめ …… ポケモントレーナーの もくひょうは かくちの ジムに いる つよい トレーナー 8にんしゅうを たおすこと! さらに ポケモンりーグ ほんぶには …… もうれつに つよい! してんのうが くんりん してる!
-4ぺージめ …… ポケモントレーナーの もくひょうは かくちの ジムに いる つよい トレーナー 8にんしゅうを たおすこと! さらに ポケモンりーグ ほんぶには …… もうれつに つよい! してんのうが くんりん してる!
+4ぺージ目 …… ポケモントレーナーの もくひょうは かくちの ジムに いる つよい トレーナー 8にんしゅうを たおすこと! さらに ポケモンりーグ ほんぶには …… もうれつに つよい! してんのうが くんりん してる!
 Fourth page... The goal for POKéMON trainers is to beat the top 8 POKéMON GYM LEADERs. Do so to earn the right to face... The ELITE FOUR of POKéMON LEAGUE!
 
 おんなのこ『あー! ノート みちゃ だめ!
