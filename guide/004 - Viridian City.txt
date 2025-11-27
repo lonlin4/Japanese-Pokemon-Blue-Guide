@@ -122,17 +122,17 @@ Pokemon Center
 
 [Left Guy]
 ポケモンセンターに あずけると つかれて うごけない ポケモンも げんきに なるよ!
-ポケモンセンターに あずけると つかれて うごけない ポケモンも げんきに なるよ!
+ポケモンセンターに預けると疲れて動けないポケモンも元気になるよ!
 POKéMON CENTERs heal your tired, hurt or fainted POKéMON!
 
 [Guy at Counter]
 ポケモンセンターは このさき どこの まちに いっても ある! なんびき あずけても ただ だし こまめに つかうと いいよ!
-ポケモンセンターは このさき どこの まちに いっても ある! なんびき あずけても ただ だし こまめに つかうと いいよ!
+ポケモンセンターはこの先どこの町にいってもある! 何匹預けてもただだしこまめに使うといいよ!
 There's a POKéMON CENTER in every town ahead. They don't charge any money either!
 
 [Man at Right]
 すみに ある パソコンは どうぞ ごじゆうに おつかいください! ……と うけつけの ねーちゃんが いっとった しんせつやのう
-すみに ある パソコンは どうぞ ごじゆうに おつかいください! ……と うけつけの ねーちゃんが いっとった しんせつやのう
+隅にあるパソコンはどうぞご自由にお使いください! ……と受付の姉ちゃんが言っとった親切やのう
 You can use that PC in the corner. The receptionist told me. So kind!
 
 ----
