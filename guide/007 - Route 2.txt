@@ -1,0 +1,30 @@
+
+----
+Route 2
+----
+
+[Sign]
+おとくな けいじばん! とにかく ポケモンを つかまえて ドンドン ふやそう! トレーナーとの しょうぶも たくさん もってると ゆうり!
+お得な掲示板! とにかくポケモンを捕まえてドンドン増やそう! トレーナーとの勝負もたくさん持ってると有利!
+TRAINER TIPS Catch POKéMON and expand your collection! The more you have, the easier it is to fight!
+
+[Sign]
+ここは 2ばん どうろ トキワ シティ … ニビ シティ
+ここは2番道路 トキワシティ…ニビシティ
+ROUTE 2 VIRIDIAN CITY - PEWTER CITY
+
+----
+Viridian Forest South Building
+----
+
+[Left Girl]
+コラッタは ちっちゃい けど まえばの いちげきは あなどれない もう つかまえた かしら?
+コラッタはちっちゃいけど前歯の一撃は侮れない もう捕まえたかしら?
+RATTATA may be small, but its bite is wicked! Did you get one?
+
+[Right Girl]
+トキワの もりへ いくの? もりは てんねんの めいろよ まよわないよう きを つけて
+トキワの森へ行くの? 森は天然んの迷路よ 迷わないよう気をつけて
+Are you going to VIRIDIAN FOREST? Be careful, it's a natural maze!
+
+
