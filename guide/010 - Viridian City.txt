@@ -1,0 +1,65 @@
+
+----
+Viridian City
+----
+
+[sign]
+…… おとくな けいじばん! しょうぶの とき ちょっとだけ でも かおを だした ポケモンは けいけんちが もらえる!	TRAINER TIPS Any POKéMON that takes part in battle, however short, earns EXP!
+
+[guy in flower field]
+シュー……! ぼくが なに やってるか わかる?	Psssst! Do you know what I'm doing?
+かだんに やせいの ポケモンが はいらない ように むしよけスプレー まいてるのさ	I'm spraying REPEL to keep POKéMON out of my garden!
+
+[sign in flower field]
+ここは ニビシティ ニビは はいいろ いしの いろ	PEWTER CITY A Stone Gray City
+
+[sign near exit]
+…… チラシが はって ある! さいきん オツキミやまで きちょうな ポケモンの カセキを ぬすみ まくる あくとうが います! あやしい ひとを みたら……! …… ニビ けいさつ まで	NOTICE! Thieves have been stealing POKéMON fossils at MT. MOON! Please call PEWTER POLICE with any info!
+
+[guy near exit]
+おまえ……! ポケモン トレーナー だろ? タケシが あいてを さがしてる …… こっちに こい!	You're a trainer right? BROCK's looking for new challengers! Follow me!
+かてる じしんが あるなら タケシと たたかって みなよ!	If you have the right stuff, go take on BROCK!
+
+[man by pokecenter]
+ニビ シティは むしとり しょうねん みたいに ただの しゅみで ポケモン やってる やつ ばかり! しかし ニビ ポケモン ジムの タケシは ちがうぜ	There aren't many serious POKéMON trainers here! They're all like BUG CATCHERs, but PEWTER GYM's BROCK is totally into it!
+
+[man by pokemart]
+きみは もう はくぶつかん けんがくした?	Did you check out the MUSEUM?
+オツキミやま で みつかった カセキの てんじ すごかった!	Weren't those fossils from MT. MOON amazing?
+
+[woman by gym]
+ピッピって つきから きたって ウワサ しってる? オツキミやまに つきのいしが おちてから みかける ように なったの	It's rumored that CLEFAIRYs came from the moon! They appeared after MOON STONE fell on MT.MOON.
+
+[sign by museum]
+ニビ かがく はくぶつかん	PEWTER MUSEUM OF SCIENCE
+
+----
+NW House
+----
+
+----
+Pokemart
+----
+
+----
+Pokecenter
+----
+
+----
+SW House
+----
+
+----
+Museum
+----
+
+----
+gym
+----
+
+
+
+
+
+
+
