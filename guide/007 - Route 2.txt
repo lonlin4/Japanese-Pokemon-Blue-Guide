@@ -27,4 +27,17 @@ RATTATA may be small, but its bite is wicked! Did you get one?
 トキワの森へ行くの? 森は天然んの迷路よ 迷わないよう気をつけて
 Are you going to VIRIDIAN FOREST? Be careful, it's a natural maze!
 
+----
+Viridian Forest North Building
+----
+
+[Old Man on Left]
+どうろの あちこちに ほそい きが あったろ? あそこは ポケモンの わざで きって とおれる そうじゃ
+どうろの あちこちに ほそい きが あったろ? あそこは ポケモンの わざで きって とおれる そうじゃ
+Have you noticed the bushes on the roadside? They can be cut down by a special POKéMON move.
+
+[Boy on top]
+もりや どうくつ しか いない ポケモンも おおいよ いろんな ポケモン とるなら しつこく さがしまわる ことだね
+もりや どうくつ しか いない ポケモンも おおいよ いろんな ポケモン とるなら しつこく さがしまわる ことだね
+Many POKéMON live only in forests and caves. You need to look everywhere to get different kinds!
 
