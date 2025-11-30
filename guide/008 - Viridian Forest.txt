@@ -1,0 +1,72 @@
+
+----
+Viridian Forest
+----
+
+[1st sign]
+…… おとくな けいじばん! ポケモンを つかまえる ときは なるべく よわらせてから! ポケモンが げんきだと にげるかも しれないよ!
+…… おとくな けいじばん! ポケモンを つかまえる ときは なるべく よわらせてから! ポケモンが げんきだと にげるかも しれないよ!
+TRAINER TIPS Weaken POKéMON before attempting capture! When healthy, they may escape!
+
+[1st guy]
+ともだちと むし ポケモン とりに きてるんだ! ポケモン しょうぶ したくて みんな ウズウズ してるよ!
+ともだちと むし ポケモン とりに きてるんだ! ポケモン しょうぶ したくて みんな ウズウズ してるよ!
+I came here with some friends! They're out for POKéMON fights!
+
+[west sign]
+どくを くらったら どくけし! フレンドりィ ショップで!
+どくを くらったら どくけし! フレンドりィ ショップで!
+For poison, use ANTIDOTE! Get it at POKéMON MARTs!
+
+[south east sign]
+…… おとくな けいじばん! もってる ポケモンが よわって きて たたかわせたく ない ときは くさむらを よけて かえろう!
+…… おとくな けいじばん! もってる ポケモンが よわって きて たたかわせたく ない ときは くさむらを よけて かえろう!
+TRAINER TIPS If you want to avoid battles, stay away from grassy areas!
+
+[east guy]
+ポケモン とろうとして モンスター ボール なげてたら すぐ なくなっちゃった きみも おおめに かって おくと いいよ
+ポケモン とろうとして モンスター ボール なげてたら すぐ なくなっちゃった きみも おおめに かって おくと いいよ
+I ran out of POKé BALLs to catch POKéMON with! You should carry extras!
+
+[1st Trainer]
+よーしッ! きみは ポケモン もってるな? しょうぶ しようぜ!
+よーしッ! きみは ポケモン もってるな? しょうぶ しようぜ!
+Hey! You have POKéMON! Come on! Let's battle'em!
+
+まけたあ! キャタピー なんか じゃ ダメか
+まけたあ! キャタピー なんか じゃ ダメか
+No! CATERPIE can't cut it!
+
+[2nd Trainer]
+おーいッ! ポケモン トレーナーなら しょうぶは ことわれ ないぜ!
+おーいッ! ポケモン トレーナーなら しょうぶは ことわれ ないぜ!
+Yo! You can't jam out if you're a POKéMON trainer!
+
+あれ? もう ポケモンが ないや
+あれ? もう ポケモンが ないや
+Huh? I ran out of POKéMON!
+
+[sign]
+…… おとくな けいじばん! ポケモンずかんは パソコンつうしんで オーキドはかせに みてもらえる!
+…… おとくな けいじばん! ポケモンずかんは パソコンつうしんで オーキドはかせに みてもらえる!
+TRAINER TIPS Contact PROF.OAK via PC to get your POKéDEX evaluated!
+
+[sign]
+…… おとくな けいじばん! ひとの ポケモンは ひとの もの! やせいの ポケモンに だけ モンスターボールを なげて つかまえよう!
+…… おとくな けいじばん! ひとの ポケモンは ひとの もの! やせいの ポケモンに だけ モンスターボールを なげて つかまえよう!
+TRAINER TIPS No stealing of POKéMON from other trainers! Catch only wild POKéMON!
+
+[Final Trainer]
+ちょっと まったあ! そんな いそいで どこに いく?
+ちょっと まったあ! そんな いそいで どこに いく?
+Hey, wait up! What's the hurry?
+
+まいった! きみは つよいな!
+まいった! きみは つよいな!
+I give! You're good at this!
+
+[Exit Sign]
+トキワの もり …… でぐち このさき ニビ シティ
+トキワの もり …… でぐち このさき ニビ シティ
+LEAVING VIRIDIAN FOREST PEWTER CITY AHEAD
+
