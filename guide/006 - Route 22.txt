@@ -4,16 +4,24 @@ Route 22
 ----
 
 [Rival Battle]
+レッド『あーッ! ブルー! ポケモン りーグに いくのか? やめとけ! おまえ どうせ バッジ もってねーだろ? みはりの おっさんが とおして くれねーよ!
+レッド『あーッ! ブルー! ポケモンりーグに行くのか? 止めとけ! お前どうせバッジ持ってねーだろ? 見張りのおっさんが通してくれねーよ!
+RED: Hey! BLUE! You're going to POKéMON LEAGUE? Forget it! You probably don't have any BADGEs! The guard won't let you through!
 
-レッド『あーッ! ブルー! ポケモン りーグに いくのか? やめとけ! おまえ どうせ バッジ もってねーだろ? みはりの おっさんが とおして くれねーよ! …… それよりさあ! おまえの ポケモン すこしは つよく なったかよ?
-RED: Hey! BLUE! You're going to POKéMON LEAGUE? Forget it! You probably don't have any BADGEs! The guard won't let you through! By the way, did your POKéMON get any stronger?
+それよりさあ! おまえの ポケモン すこしは つよく なったかよ?
+それよりさあ! お前のポケモン少しは強くなったかよ?
+By the way, did your POKéMON get any stronger?
 
-あーッ! こいつ なめた マネを!	Awww! You just lucked out!
+あーッ! こいつ なめた マネを!
+あーッ! こいつなめたマネを!
+Awww! You just lucked out!
 
 どうやら ポケモン りーグには つよくて すごい トレーナーが ウジャウジャ いるらしいぜ どうにか あそこを とおりぬける ほうほうを かんがえなきゃな! おまえも いつまでも ここらに いないで とっとと さきに すすめよ!
+どうやらポケモンりーグには強くてすごいトレーナーがウジャウジャいるらしいぜ どうにかあそこを通り抜ける方法を考えなきゃな! お前もいつまでもここらにいないでとっとと先に進めよ!
 I heard POKéMON LEAGUE has many tough trainers! I have to figure out how to get past them! You should quit dawdling and get a move on!
 
 [Sign]
 ここは ポケモン りーグ しょうめん ゲート
+ここはポケモンりーグ正面ゲート
 POKéMON LEAGUE Front Gate
 
