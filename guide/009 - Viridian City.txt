@@ -34,27 +34,53 @@ Viridian City
 ニビ かがく はくぶつかん	PEWTER MUSEUM OF SCIENCE
 
 ----
-NW House
+NE House
 ----
+
+[Boy]
+ニドラン おすわり!	NIDORAN sit!
+
+[Man]
+うちの ポケモン よそもの だから き むずかしいよ よそもの ってのは ひとと こうかん した ポケモンだよ そだつのは はやいが ちからのない トレーナーの いうことは きかん! バッジさえ あれば……	Our POKéMON's an outsider, so it's hard to handle. An outsider is a POKéMON that you get in a trade. It grows fast, but it may ignore an unskilled trainer in battle! If only we had some BADGEs...
 
 ----
 Pokemart
 ----
 
+[Top Guy]
+インチキ くさい おじさんから なんだか へンな ポケモンを かっちゃったよ! すっげー よわいの! 500円も したのに……	A shady, old man got me to buy this really weird fish POKéMON! It's totally weak and it cost ¥500!
+
+[Right Guy]
+よわい ポケモンでも いっしょうけんめい そだてれば いいこと あるさ!	Good things can happen if you raise POKéMON diligently, even the weak ones!
+
 ----
 Pokecenter
 ----
+
+[Guy on bench]
+ほぁーひゃ……! プりンの うたごえを きくと…… たいていの ポケモンは ねむくなる ……そして ぼくも……ぐー……	Yawn! When JIGGLYPUFF sings, POKéMON get drowsy... ...Me too... Snore...
+
+[Old Man]
+なに!? ロケットだんが オツキミやまで…… ……ん? でんわ してるんだ! じゃま しないで くれ!	What!? TEAM ROCKET is at MT.MOON? Huh? I'm on the phone! Scram!
 
 ----
 SW House
 ----
 
+[Man]
+ポケモンを そだてて いくと わざを おぼえる! しかし ひとから おそわらなければ おぼえない わざも あるぞ	POKéMON learn new techniques as they grow! But, some moves must be taught by the trainer!
+
+[Boy]
+ねむり どく やけど マヒ…… ポケモンの たいちょうが わるいと つかまえ やすいよ でも…… かならず とれる わけじゃ ないみたい	POKéMON become easier to catch when they are hurt or asleep! But, it's not a sure thing!
+
 ----
 Museum
 ----
 
+
+
 ----
-gym
+Gym
 ----
 
 
