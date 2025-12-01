@@ -74,10 +74,46 @@ SW House
 ねむり どく やけど マヒ…… ポケモンの たいちょうが わるいと つかまえ やすいよ でも…… かならず とれる わけじゃ ないみたい	POKéMON become easier to catch when they are hurt or asleep! But, it's not a sure thing!
 
 ----
-Museum
+Museum 1F
 ----
 
+[ticket man]
+はいはい こどもは  けんがくりょう 50えん です けんがく しますか?	It's ¥50 for a child's ticket. Would you like to come in?
+はい たしかに 50えん いただき ました!	Right, ¥50! Thank you!
 
+[man]
+ありがたや! ありがたや! りゅうじん さまの ほねを おがめる とは!	That is one magnificent fossil!
+
+[top display case]
+めずらしい こだい ポケモン プテラの カセキ	AERODACTYL Fossil A primitive and rare POKéMON.
+
+[bottom display case]
+めずらしい こだい ポケモン カブトプスの カセキ	KABUTOPS Fossil A primitive and rare POKéMON.
+
+----
+Museum 2F
+----
+
+[Glasses guy]
+こんげつは うちゅう はくらんかいを やってます	We have a space exhibit now.
+
+[Boy]
+つきの いしね…… そこらへんの いしころと どこが ちがうんだろう?	MOON STONE? What's so special about it?
+
+[Old Lady]
+1969ねん 7がつ 20か! じんるい はじめて つきに たつ! わしは あの ニュースが みたくて カラーテレビを かったんじゃ!	July 20, 1969! The 1st lunar landing! I bought a color TV to watch it!
+
+[bottom display case]
+オツキミやまに らっかした ぶったい たぶん…… つきの いし	Meteorite that fell on MT.MOON. (MOON STONE?)
+
+[rocket ship]
+スぺース シャトル コロンビアごう	SPACE SHUTTLE COLUMBIA
+
+[girl]
+わたしね わたしね かわいいから ピカチュウ ほしい! おとうさんに とってきてね って おねがい してるの	I want a PIKACHU! It's so cute! I asked my Daddy to catch me one!
+
+[man]
+はい はい! ピカチュウだな! こんどな!	Yeah, a PIKACHU soon, I promise!
 
 ----
 Gym
